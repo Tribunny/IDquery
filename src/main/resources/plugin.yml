@@ -1,0 +1,10 @@
+name: IDQuery
+version: ${project.version}
+main: top.tribunny.idquery.Main
+api-version: 1.13
+authors: [Tribunny]
+description: Query Old Items' Number ID
+commands:
+  idquery:
+    description: Query Old Items' Number ID
+    aliases: [q,qid]
